@@ -10,3 +10,4 @@ Solar System ✨ is an interactive and visually stunning representation of our �
 
 **CSS** : Styling, Animations, and Effects 🎨
 
+![2025-01-30](https://github.com/user-attachments/assets/20f375c3-5662-4322-a408-de98ad3be87e)
